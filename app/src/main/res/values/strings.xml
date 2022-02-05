@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CrudSQLiteDemo</string>
+    <string name="image">image</string>
+</resources>
